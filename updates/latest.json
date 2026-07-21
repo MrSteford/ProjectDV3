@@ -1,7 +1,7 @@
 {
-  "version": "3.0.1",
-  "installer_url": "https://github.com/MrSteford/ProjectDV3/releases/download/v3.0.1/ProjectDiarySetup.exe",
+  "version": "3.0.2",
+  "installer_url": "https://github.com/MrSteford/ProjectDV3/releases/download/v3.0.2/ProjectDiarySetup.exe",
   "sha256": "",
-  "notes": "Релиз Project Diary 3.0.1.",
+  "notes": "Исправлено обновление: больше не затирает настройки, проекты и сейф. Дефолтные раскладки виджетов сохранены.",
   "published_at": "2026-07-21"
 }
