@@ -1,7 +1,7 @@
 {
-    "version":  "3.0.7",
-    "installer_url":  "https://github.com/MrSteford/ProjectDV3/releases/download/v3.0.7/ProjectDiarySetup.exe",
-    "sha256":  "cc04fc3cd8aa3b1b3f960dcb2e7bd8224c74e7b0dd2e80c8250a61da2b40637b",
-    "notes":  "Переработаны настройки и интерфейс",
+    "version":  "3.0.8",
+    "installer_url":  "https://github.com/MrSteford/ProjectDV3/releases/download/v3.0.8/ProjectDiarySetup.exe",
+    "sha256":  "163d9d58e82aafea0f4dbfe341ce43e148d6e4611b537bccc058a405df4f0558",
+    "notes":  "Fixes",
     "published_at":  "2026-07-22"
 }
