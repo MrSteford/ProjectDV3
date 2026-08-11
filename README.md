@@ -1,20 +1,24 @@
 <div align="center">
 
+<table><tr><td>
+
 ```
-╔══════════════════════════════════════════════════════════════════╗
-║                                                                  ║
-║              P R O J E C T   D I A R Y   V 3                     ║
-║                                                                  ║
-║         encrypted video diary  ·  local vault  ·  HUD            ║
-║                                                                  ║
-╚══════════════════════════════════════════════════════════════════╝
+╔══════════════════════════════════════════════════╗
+║                                                  ║
+║          P R O J E C T   D I A R Y   V 3         ║
+║                                                  ║
+║     encrypted video diary · local vault · HUD    ║
+║                                                  ║
+╚══════════════════════════════════════════════════╝
 ```
+
+</td></tr></table>
 
 # Project Diary V3
 
 ### Зашифрованный видеодневник для Windows
 
-`позывной + пароль` &nbsp;·&nbsp; `локальный сейф` &nbsp;·&nbsp; `без облака`
+`позывной + пароль` · `локальный сейф` · `без облака`
 
 <br>
 
@@ -26,21 +30,26 @@
 
 <br>
 
-[![Website](https://img.shields.io/badge/OPEN%20SITE-projectdiary.ru-00B4FF?style=for-the-badge&labelColor=00B4FF&color=0A0E14&logo=googlechrome&logoColor=white)](https://projectdiary.ru/index.html)
-&nbsp;
-[![Release](https://img.shields.io/badge/DOWNLOAD-GitHub%20Releases-2AA84A?style=for-the-badge&labelColor=0A0E14&logo=github&logoColor=white)](../../releases)
+<p>
+  <a href="https://projectdiary.ru/index.html"><img src="https://img.shields.io/badge/OPEN%20SITE-projectdiary.ru-00B4FF?style=for-the-badge&labelColor=00B4FF&color=0A0E14&logo=googlechrome&logoColor=white" alt="Open site"></a>
+  <a href="../../releases"><img src="https://img.shields.io/badge/DOWNLOAD-GitHub%20Releases-2AA84A?style=for-the-badge&labelColor=0A0E14&logo=github&logoColor=white" alt="Download"></a>
+</p>
 
-<br>
+<p>
+  <img src="https://img.shields.io/badge/PLATFORM-Windows%2010%20%2F%2011%20x64-00B4FF?style=flat-square&labelColor=0A0E14" alt="Windows">
+  <img src="https://img.shields.io/badge/VAULT-AES--256--GCM-2AA84A?style=flat-square&labelColor=0A0E14" alt="AES">
+  <img src="https://img.shields.io/badge/MODE-OFFLINE%20FIRST-C8B028?style=flat-square&labelColor=0A0E14" alt="Offline">
+  <img src="https://img.shields.io/badge/BY-Steford's%20Tempus-1E2B32?style=flat-square&labelColor=0A0E14" alt="Tempus">
+  <img src="https://img.shields.io/badge/©-2026-071015?style=flat-square&labelColor=0A0E14" alt="2026">
+</p>
 
-<img src="https://img.shields.io/badge/PLATFORM-Windows%2010%20%2F%2011%20x64-00B4FF?style=flat-square&labelColor=0A0E14" alt="Windows">
-<img src="https://img.shields.io/badge/VAULT-AES--256--GCM-2AA84A?style=flat-square&labelColor=0A0E14" alt="AES">
-<img src="https://img.shields.io/badge/MODE-OFFLINE%20FIRST-C8B028?style=flat-square&labelColor=0A0E14" alt="Offline">
-<img src="https://img.shields.io/badge/BY-Steford's%20Tempus-1E2B32?style=flat-square&labelColor=0A0E14" alt="Tempus">
-<img src="https://img.shields.io/badge/©-2026-071015?style=flat-square&labelColor=0A0E14" alt="2026">
+<table><tr><td>
 
 ```
-◆━━━━━━  AUTH GATE  ·  LOCAL NODE  ·  SECURE ENCLAVE  ━━━━━━◆
+◆━━━━  AUTH GATE · LOCAL NODE · SECURE ENCLAVE  ━━━━◆
 ```
+
+</td></tr></table>
 
 </div>
 
@@ -66,13 +75,13 @@ Project Diary — тихий ритуал на камеру: ты говориш
 
 <table>
 <tr>
-<td width="50%" valign="top">
+<td width="50%" valign="top" align="left">
 
 ### ◆ Записи
 Включаешь камеру и ведёшь дневник как разговор с собой. Дни складываются в календарь — легко вернуться к любому моменту.
 
 </td>
-<td width="50%" valign="top">
+<td width="50%" valign="top" align="left">
 
 ### ◆ Проекты
 Можно вести отдельные проекты — личное, работа, учёба — и не смешивать всё в одну кучу.
@@ -80,13 +89,13 @@ Project Diary — тихий ритуал на камеру: ты говориш
 </td>
 </tr>
 <tr>
-<td width="50%" valign="top">
+<td width="50%" valign="top" align="left">
 
 ### ◆ Эмоции
 Мягкая сводка настроения после записи — не оценка личности, а зеркало дня.
 
 </td>
-<td width="50%" valign="top">
+<td width="50%" valign="top" align="left">
 
 ### ◆ Транскрипт
 Сказанное становится текстом: перечитывай, ищи фразы, цепляйся за мысли.
@@ -94,13 +103,13 @@ Project Diary — тихий ритуал на камеру: ты говориш
 </td>
 </tr>
 <tr>
-<td width="50%" valign="top">
+<td width="50%" valign="top" align="left">
 
 ### ◆ Голосовые метки
 Закладки и команды голосом по ходу записи — руки свободны, момент не теряется.
 
 </td>
-<td width="50%" valign="top">
+<td width="50%" valign="top" align="left">
 
 ### ◆ Экспорт
 Нужна копия или файл «на сторону» — готовое видео можно выгрузить.
@@ -108,13 +117,13 @@ Project Diary — тихий ритуал на камеру: ты говориш
 </td>
 </tr>
 <tr>
-<td width="50%" valign="top">
+<td width="50%" valign="top" align="left">
 
 ### ◆ Форматы
 Горизонталь под монитор или вертикаль под телефон — как удобнее снимать.
 
 </td>
-<td width="50%" valign="top">
+<td width="50%" valign="top" align="left">
 
 ### ◆ Защита
 Доступ по позывному и паролю. Без ключа архив закрыт.
@@ -122,7 +131,7 @@ Project Diary — тихий ритуал на камеру: ты говориш
 </td>
 </tr>
 <tr>
-<td colspan="2" valign="top">
+<td colspan="2" valign="top" align="left">
 
 ### ◆ Дизайн
 Sci-fi HUD: тёмный, чёткий, без шума. Фокус на записи, не на кнопках.
@@ -137,6 +146,8 @@ Sci-fi HUD: тёмный, чёткий, без шума. Фокус на зап�
 
 ## ▌ Сценарий
 
+<table><tr><td>
+
 ```text
 ┌──────────┐    ┌──────────┐    ┌──────────┐    ┌──────────┐
 │   AUTH   │───▶│ ARCHIVE  │───▶│  RECORD  │───▶│  PLAYER  │
@@ -144,10 +155,9 @@ Sci-fi HUD: тёмный, чёткий, без шума. Фокус на зап�
 └──────────┘    └──────────┘    └──────────┘    └──────────┘
 ```
 
-**1.** Разблокируй сейф &nbsp;→&nbsp;
-**2.** Выбери день &nbsp;→&nbsp;
-**3.** Запиши &nbsp;→&nbsp;
-**4.** Вернись к себе
+</td></tr></table>
+
+**1.** Разблокируй сейф → **2.** Выбери день → **3.** Запиши → **4.** Вернись к себе
 
 </div>
 
@@ -157,7 +167,7 @@ Sci-fi HUD: тёмный, чёткий, без шума. Фокус на зап�
 
 ## ▌ Установка
 
-</div>
+<table><tr><td>
 
 ```text
  ①  скачай ProjectDiarySetup.exe   ←  GitHub Releases
@@ -165,7 +175,11 @@ Sci-fi HUD: тёмный, чёткий, без шума. Фокус на зап�
  ③  позывной — часть ключа, не просто ник
 ```
 
+</td></tr></table>
+
 > **Не теряй позывной и пароль.** Без них архив не восстановить.
+
+</div>
 
 ---
 
@@ -173,17 +187,19 @@ Sci-fi HUD: тёмный, чёткий, без шума. Фокус на зап�
 
 ## ▌ Стек
 
-<img src="https://skillicons.dev/icons?i=dotnet,windows,cpp,py&theme=dark" alt="stack" />
+<p>
+  <img src="https://skillicons.dev/icons?i=dotnet,windows,cpp,py&theme=dark" alt="stack">
+</p>
 
-<br><br>
-
-<img src="https://img.shields.io/badge/WPF-.NET%208-512BD4?style=flat-square&logo=dotnet&logoColor=white" alt="WPF">
-<img src="https://img.shields.io/badge/MediaCapture-WinRT-0078D6?style=flat-square&logo=windows&logoColor=white" alt="MC">
-<img src="https://img.shields.io/badge/WebView2-Edge-0078D6?style=flat-square&logo=microsoftedge&logoColor=white" alt="WV2">
-<img src="https://img.shields.io/badge/ffmpeg-007808?style=flat-square&logo=ffmpeg&logoColor=white" alt="ffmpeg">
-<img src="https://img.shields.io/badge/Vosk-00B4FF?style=flat-square" alt="Vosk">
-<img src="https://img.shields.io/badge/Whisper-C8B028?style=flat-square" alt="Whisper">
-<img src="https://img.shields.io/badge/ONNX-FF6F00?style=flat-square&logo=onnx&logoColor=white" alt="ONNX">
+<p>
+  <img src="https://img.shields.io/badge/WPF-.NET%208-512BD4?style=flat-square&logo=dotnet&logoColor=white" alt="WPF">
+  <img src="https://img.shields.io/badge/MediaCapture-WinRT-0078D6?style=flat-square&logo=windows&logoColor=white" alt="MC">
+  <img src="https://img.shields.io/badge/WebView2-Edge-0078D6?style=flat-square&logo=microsoftedge&logoColor=white" alt="WV2">
+  <img src="https://img.shields.io/badge/ffmpeg-007808?style=flat-square&logo=ffmpeg&logoColor=white" alt="ffmpeg">
+  <img src="https://img.shields.io/badge/Vosk-00B4FF?style=flat-square" alt="Vosk">
+  <img src="https://img.shields.io/badge/Whisper-C8B028?style=flat-square" alt="Whisper">
+  <img src="https://img.shields.io/badge/ONNX-FF6F00?style=flat-square&logo=onnx&logoColor=white" alt="ONNX">
+</p>
 
 </div>
 
@@ -193,18 +209,26 @@ Sci-fi HUD: тёмный, чёткий, без шума. Фокус на зап�
 
 ## ▌ Лицензия
 
+<table><tr><td>
+
 ```
 © 2026  ·  Steford's Tempus  ·  Project Diary V3
 ```
+
+</td></tr></table>
 
 Копирование и коммерческое использование — только с разрешения.  
 [LICENSE.txt](LICENSE.txt) · [LICENSE-THIRD-PARTY.txt](LICENSE-THIRD-PARTY.txt)
 
 <br>
 
+<table><tr><td>
+
 ```
-◆━━━━━━  AUTH GATE  ·  LOCAL VAULT  ·  PROJECT DIARY  ━━━━━━◆
+◆━━━━  AUTH GATE · LOCAL VAULT · PROJECT DIARY  ━━━━◆
 ```
+
+</td></tr></table>
 
 ### [▶  projectdiary.ru  ◀](https://projectdiary.ru/index.html)
 
